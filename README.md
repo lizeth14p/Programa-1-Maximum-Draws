@@ -3,7 +3,7 @@
 ## Instrucciones
 1. Crear una carpeta con el archivo txt y el codigo .c 
 
-2. Al compilar ya sea directamente de dev c++ o en terminal cmd con el comando "gcc maximum-draws.c"
+2. Al compilar ya sea directamente de dev c++ o en terminal cmd con el comando "gcc MaximumDraws.c"
 
 3. Obtendremos otro txt con los valores de salida
 
