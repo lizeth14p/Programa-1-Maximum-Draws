@@ -1,12 +1,5 @@
 # Programa-1-Maximum-Draws
 
-## Instrucciones
-1. Crear una carpeta con el archivo txt y el codigo .c 
-
-2. Al compilar ya sea directamente de dev c++ o en terminal cmd con el comando "gcc MaximumDraws.c"
-
-3. Obtendremos otro txt con los valores de salida
-
 ## Descripción 
 Una persona se esta preparando para irse y necesita un par de calcetines a juego. Si existen varios colores de calcetines en el cajon cuantos calcetines deben quitarse para estar seguros de tener un par a juego?
 
@@ -20,3 +13,8 @@ FILE* fptr = fopen(getenv("OUTPUT_PATH"), "w");
 Ya que el código trabaja con entradas que le proporciona la página misma por lo que debemos reemplazar con las siguientes líneas y adjuntar un archivo txt. con las entradas para poder recibir las salidas correspondientes.
 
 El archivo txt contiene las salidas que se dan de ejemplo en la pagina hackerranks
+
+## Instrucciones de ejecución
+1. Compilar el programa como "gcc MaximumDraws.c"
+2. El archivo de los datos de entrada (input1) deberan estar en la misma carpeta o dirección en donde se encuentre el programa en C.
+3. Al terminar la ejecución se creará un archivo txt llamado "output1" dentro de la misma dirección del programa en C, el cuál deberá contener la salida esperada del programa.
